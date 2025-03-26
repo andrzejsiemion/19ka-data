@@ -1066,6 +1066,7 @@ date,time,temperature,humidity
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 2025-03-23,09:30:00,30.5,34.0
 2025-03-23,09:30:27,30.5,34.0
 2025-03-23,09:30:57,30.5,34.0
@@ -2812,6 +2813,8 @@ date,time,temperature,humidity
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 2025-03-23,09:20:27,30.5,34.2
 2025-03-23,09:20:57,30.5,34.2
 2025-03-23,09:21:27,30.5,34.1
@@ -2833,6 +2836,9 @@ date,time,temperature,humidity
 2025-03-23,09:29:27,30.5,34.0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
