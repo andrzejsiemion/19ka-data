@@ -1,0 +1,7 @@
+"# Sensor Name: external_sensor, Pin: 10, InfluxDB Org: thz_lab, InfluxDB Bucket: sensor_data"
+date,time,temperature,humidity
+2025-04-08,12:27:40,21.0,29.2
+2025-04-08,12:28:10,21.1,29.9
+2025-04-08,12:28:40,21.1,29.8
+2025-04-08,12:29:10,21.1,29.6
+2025-04-08,12:29:40,21.1,29.3
